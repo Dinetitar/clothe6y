@@ -1,0 +1,26 @@
+{
+  "name": "Earl Singleton",
+  "age": 49,
+  "address": {
+    "street": "Gepun River",
+    "city": "Burgunbi",
+    "state": "KS",
+    "zip": "31377"
+  },
+  "contact": {
+    "phone": "(716) 364-3998",
+    "servicePhone": "800216179"
+  },
+  "birthday": "1993-01-27T13:08:34.564Z",
+  "ip": "178.21.166.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Uc ifkerje fezef vowtejo piehav feb nitudev nobdepfoj tasjefi ra ajiopzu apoze zi hambamnit dawupi kej damvoh. Ji zofsuha orcit zenasa opeisu nuazu ipacevgu he hi rizun umovec zifzahpa zumbaot husuci oczel pa botegaru. Upiloha ap uk hibakoni bul naloga punreto wik gom bat huni hatumco jil na. Kaz zeknebocu gomido po bapa onoja podaleb ser iwuro jajsep wuv fuvmiza jizif goba ruel teropvo pa. Aj fel ruglaneg ice aba kothit va gez wokfocgoz adiki je ithamate rih bagapov.",
+    "bio": "Ici san feegemil gon ini kubu resir bu iklel fogakhe widezoz joonic er ucpi lisu fem. Tokiw pomkatfot lufoca tomim fogorirom vojlevdi izanabuj aveubize siiw vovlalin idkage buduworec kiweko kodriiz islu re nuvwot. Lidosoh sadzes riet rupogje me itemeno upezvo heah jojmumed sevfiwraj mijnavsi cola jum hevukleb wujem hes. Moakme lim haj takoh upteum liju uru fiuzebo noji wewarwod nortudiw jitdufef hafa esedusci."
+  },
+  "apiKey": "cf43ba03442a568856e178a5dbc65ef2c14adc25d77ee5f6477c3fe8c55646bd",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
