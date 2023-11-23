@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Christensen",
+  "age": 21,
+  "address": {
+    "street": "Ozafu Way",
+    "city": "Cituwi",
+    "state": "WV",
+    "zip": "83911"
+  },
+  "contact": {
+    "phone": "(346) 342-4634",
+    "servicePhone": "800286512"
+  },
+  "birthday": "1998-06-07T22:56:25.504Z",
+  "ip": "165.79.45.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruvzip eda kiazgi ajo umowe huludge semonlo bucduiw fa uwte eboemmo ibi eh gassuved vowibi of sisnipes. Kotfaka nuir pezusizup fogibon jihe caosudol nuifpuc mici borrum bad kewkab tuk fi bos anawopti goocjo. Tickuduc aseba numuziv va zeotdiv herohe pul bavgu vupbinew ecegatje vozdiz gep.",
+    "bio": "Gibje bupgoseje dah nahniron tudu bir puv ibo raj ufi nu utwar bom loihlat maifku teordah eftelah. Elpul ovjawe pumtuv se izoji sizikwo berit ro mec pulfut edeta aci wod objuj dal. Bov zu iklo binmo hitwuug nas tehut zozwuna pe co kaj pa fizal tetcescug."
+  },
+  "apiKey": "cd93b18a145ff5dab0ead8277762257a66dfa50ece7514825a78e144b6e08713",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
