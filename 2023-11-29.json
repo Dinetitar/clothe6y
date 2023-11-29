@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Norris",
+  "age": 56,
+  "address": {
+    "street": "Jauzi Circle",
+    "city": "Zorela",
+    "state": "NV",
+    "zip": "87225"
+  },
+  "contact": {
+    "phone": "(475) 709-8381",
+    "servicePhone": "800782621"
+  },
+  "birthday": "1967-09-30T10:05:44.582Z",
+  "ip": "156.112.142.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Rac neidkif gu dulif jor so guh hiis warvugsu dun me ar. Fafguj woez gav kegfeupa awadruf min me sahovo atbu uwu rekcu tu. Icufespu edlifcat wivo fobrisse nemo naz vehesu fotdev zebfod foh hofha zimon rizlaw kafmamcu neon wuconu cibwadpif defah. Muhibi ahujilju upbuh cukoul vurnut iceri hi zauk ne eta fi lo nonule beifoime meofku pibavgog wanje. Gamokuw ot hiohri oviawe ut apfo souv jokop ve fosemin cazo agtej wedi.",
+    "bio": "Gu kubholi pi cam ineecseb jol jihgeru suhvab bubarlin viofoce usigig of. Cumfana rafaif ku ji lev leciwjiw oshum arfaro retiaci uhhaded wusip dun binbimjup fa. Nor gapis lurom bun aherezo hiumbu esimurfuf farizag ludib sif jir moochol tacpam urmukvew ozivi calbo zozzid igu. Gaurolit ni itisewa hogbiras vusideh ibuneow udowo mecdetnu husor niup hasabna wuikorap. Fipupid mah tibsiwat gim ezpaw ulo co benugi sizotu ked jehu urezevla. Ninuic eta fajihe upuleb ehebouto noleza melwor ori za maiv loffaj onnakso kaogore dimhub foruzinud seuwi."
+  },
+  "apiKey": "0497270b25ce909761fc383196479aa4331d3001804eda3ca6f577085a64f0f5",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
