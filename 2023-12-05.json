@@ -1,0 +1,26 @@
+{
+  "name": "Linnie Brown",
+  "age": 30,
+  "address": {
+    "street": "Fihwel Manor",
+    "city": "Hecelbib",
+    "state": "HI",
+    "zip": "02350"
+  },
+  "contact": {
+    "phone": "(313) 436-3993",
+    "servicePhone": "800119319"
+  },
+  "birthday": "1984-09-01T18:58:58.391Z",
+  "ip": "166.105.180.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Nozgu no siceali va sob nota mid moure aseru evzubuk awo hozun odbogne hav jibel buli. Tidir nucihebuh vocbegip olzogod husfema ora rabib erzo ahavuwij vuwsan soza rija winjokgip omlof wa firon. Zoj fekpe an go nuciw tesut kerad ahavaz judobobad pekdiago oce mehobo se fi fa.",
+    "bio": "Jidatuk otu toadsuf one hac nigkij za jac uv gih voahuda la pimahub jemor cu numu agjoze cuka. Vad tu winuc bob fij cajfagu fer ri zovneik boafga veppo big dunbam nif ehugiud awfoude ivacido. Pivedev ca dagutcaz vucuiz ni udcer sif com ejoduv vafi jokdashud wenednav ufkoaga pur mez pukeki ubotar wooddu."
+  },
+  "apiKey": "8b9edc8900d38f0c94492f2c920cfba191583690ed893a37c8e839899dd176b4",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
