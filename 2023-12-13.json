@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Peters",
+  "age": 44,
+  "address": {
+    "street": "Woze Junction",
+    "city": "Lodako",
+    "state": "MD",
+    "zip": "67982"
+  },
+  "contact": {
+    "phone": "(645) 755-7264",
+    "servicePhone": "800271872"
+  },
+  "birthday": "1971-08-20T03:38:08.846Z",
+  "ip": "6.74.87.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Une hizaliat uviuga lulatda gaoro fizej so jugzejfat cojwedvor vahevub ofu peg ilofelil uhwil. Isa revbu wugoj luluz mo jecigwuw cofez robek cok hor tir pafefnu teva ip gaw. Vutotu akhotfol mubfu jeipaaw es ire bi usukajoh dapovmef ojupojle nob nosib ogtuvgus.",
+    "bio": "Lutgaduh ma jaom soh poh seme ul gevazbo owazaroz jej hawa dudihdi ga nah kuw wo. Hih zoaf vosake uhi iw wonfi juf kufabbuv lahlebe ibapisho popcotu kiter ned za reevazo. Irakiuta wodac muz zubelo azo ju sengilag osetuz lijgah cunigruv habouj figubnu puh sa luvciko vuwo sorozaj ikephid."
+  },
+  "apiKey": "716559cf9bd6e533626ec95fc0e92b999a4efe8444e127e06d3da27452866850",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
