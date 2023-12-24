@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Pierce",
+  "age": 52,
+  "address": {
+    "street": "Pacol Parkway",
+    "city": "Ahulima",
+    "state": "DC",
+    "zip": "93001"
+  },
+  "contact": {
+    "phone": "(412) 406-2824",
+    "servicePhone": "800915389"
+  },
+  "birthday": "1961-09-17T12:50:58.047Z",
+  "ip": "122.190.50.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Su bolobnif zocajni ca tunji tafoje vec kowu gazu jil haub wisikoik. Jilted comeijo zuheup cize cazifo ive rojuf ac sab ohe ije je ceh. Ferkutje lo fowhuldu omefru ba zuw romzijir roclata kauke kaup taw fol podoktid ju. Imipegipi gub jiliw arvo ocligej ir niwlobuge oke piiri movi so tol te suwzitdu al ojo. Javori polu aro vopnu nuwipraz oc beb dapo gatteba jo ro kehih ik hejeb.",
+    "bio": "Ni abosewpal om cezdu orenu sog silesig fuh jebuz keg sagkovu wevebahu owodu. Su sil gep geajehid kihpuma osuafota gebu ekfirihe tum iteof pewucmo buhrup kirbigic eda piija zij we huab. Don miva jinduhu itzal seja mefu letuti cugojaz pojon ruv lipdiw piaju el seztof divtaran sef weajo jeozukat."
+  },
+  "apiKey": "ab9664cb2c32551e1e05fe8cc47a78807c1d657f9f8d7b1fd0ca2219b93b1e8f",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
