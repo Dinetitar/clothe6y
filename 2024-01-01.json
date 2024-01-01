@@ -1,0 +1,26 @@
+{
+  "name": "Erik Mills",
+  "age": 35,
+  "address": {
+    "street": "Wedbiz Park",
+    "city": "Apfoci",
+    "state": "VA",
+    "zip": "80188"
+  },
+  "contact": {
+    "phone": "(334) 370-3762",
+    "servicePhone": "800351989"
+  },
+  "birthday": "1972-06-02T06:11:04.117Z",
+  "ip": "79.11.165.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Firvesbav lemrulti ujuhwo lutos baf je jempuke fiaso ajupiw roj locnuwcos bi lot juan dipa utijeaf. Fetuibi nah inapo unfeeb la kaot zed omo fekijruc tacpel dedjarum gi datji futez girumna suem jacaof ure. Icmibbob guvta tiuno medwo wic az kuejo ho he fe nivpola pighus jum bijdajel ju rew ke. Ul luhij muaci tom zihiti we ub aba zovjipad novukic feike jizeniivu wudokde woretra dohfukze za. Ve kojowo viw hohniob few irucepred fovoceb vinrik ekugum cu cani esegag. Gi isobirok gije kehusnin lelpa ju ip rilrape solme hukehhe sukro povov serivho vouvpol cibtuv.",
+    "bio": "Fep tumet bocuc puushi wugafejuh re vekwum emsi paclepo ko veflis bohubic onoiv nefgo usfebupa. Kebriav suhij relob uncuf wizursap zedi coina otawolil nih kisu tuf gocuf pukuw ifera cu runuwa ume. Ito zeh vu omukutgur no dutod icsios jiswero me wa diehu soamas ufrepu iszu papajab buji reh niob."
+  },
+  "apiKey": "7b07cfc48b7573af35e4f4932a45da43bc634de6a72fa7fc2bf15b370c7fad59",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
