@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Stewart",
+  "age": 23,
+  "address": {
+    "street": "Camnos View",
+    "city": "Bezmijaj",
+    "state": "KY",
+    "zip": "41969"
+  },
+  "contact": {
+    "phone": "(676) 434-1551",
+    "servicePhone": "800878395"
+  },
+  "birthday": "1977-09-21T00:41:13.155Z",
+  "ip": "220.221.162.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Wahbukhig miud ede namku nedoew te den udegickun bofpo embu ati ahofesi pejnotjob runed mis obzed. Ruujo lile nuhnoru jitoje suuc copew tob gej ne zuhod mipwem rakwuj cizo gow jakud. Fehcunke fuv mo kohgol nud jocizo ku rirho nimpesja vuv uselu fugkon vefformuv giheepu cucjapcir go.",
+    "bio": "Cew pel rerfucan uzrazduw tag micure danrad cigor ojnukgu nitid denig nobufaw jinjuf ro ik ja eb. Zuhugmi ef iku pas nuude dajlu fuagitih vo baf odugugod gukbazhid dul cakbosza anemusu. Ribothec gulote hesned gositob jin ogo daawba ziutcec cogokbas ji pom rarene letben zippir dinjej kiwotpe."
+  },
+  "apiKey": "72642d41ca8df413568b879832898bf5f6f4a86d5e6838d3857d9f7a39b9ffea",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
