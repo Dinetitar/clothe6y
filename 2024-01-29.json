@@ -1,0 +1,26 @@
+{
+  "name": "Leona Duncan",
+  "age": 23,
+  "address": {
+    "street": "Fila Place",
+    "city": "Emguciha",
+    "state": "IA",
+    "zip": "45115"
+  },
+  "contact": {
+    "phone": "(267) 376-5903",
+    "servicePhone": "800186985"
+  },
+  "birthday": "1990-02-11T13:22:56.760Z",
+  "ip": "81.255.58.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Tudre pew vic wapda sewrabu ezanetat befbu daumouf ji ruhzo tiap wozek. Bum nupucne roanoz re sib ena levbetun regje ofid kiopi ki rudzec ci hezekic opada rer bizseewu. Aj menbiwtub fehe elo lumegir duntowsu vofgudcus wacjabliv si zomkirnev kereret opi udumopze can. Emi mud nurvacug nilom teeru novow nidnando ok ambo zuncosdek pu cej kopjuut atusu. Ki efobesa robmuc cusuto hojdoka zavtotoj fari siplo labupsi ohatikez ozinu nuwar wipe.",
+    "bio": "Sevbofot cibnohu tiik kemazrav co ibeeko boh cezbul kapupi jokoacu izheti resif sunhujor dunotek ema fot. Of ratipaf huapook powve woz kuzup mopgu nanibme waonehi ozbal fo izafpev limnel dasufela doana. Ophi ku up laavi dumopkov lapgosej bihsod hozini dez ficdib egmi adekurwer de wi it. Ocusef suwgibcan befum ce jacup revad if lilop ni itamuhewe ac katdihsin bahub lanin usubutu op."
+  },
+  "apiKey": "0b29ccc372771833a12f79f8abd853ca29cc8491b7215810003d2bad5e5ce8e1",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
