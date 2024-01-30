@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Riley",
+  "age": 28,
+  "address": {
+    "street": "Hucume Drive",
+    "city": "Udlamsop",
+    "state": "IL",
+    "zip": "26268"
+  },
+  "contact": {
+    "phone": "(378) 873-1597",
+    "servicePhone": "800784931"
+  },
+  "birthday": "1991-10-26T21:39:44.703Z",
+  "ip": "249.76.18.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Lato li wol fozdu efu kabeva kokijic nazjibi wa agotowi osuuk wew biic. Nalupim foj ju cicmakib do makiwa hula po ga fohdican at amtu. Muh serajujo zumzewki ola lif rofero unu hoonmap hace hiikepi muc tibfatac oh semzu huosukej.",
+    "bio": "Ispi imafagud zazus avinapov fu busu bujekga tot ej novwona ri tiunle noekiuni id. Sena raf wunhaju se atnadha gokka za adeleoki aw wiiwoguw tiahu kor kecapul. Rardemiw fol vako rob rortaj eh ce urmiw bec deitejer udmecote zaj."
+  },
+  "apiKey": "0da1b036aa48cfa632c9e8d3aba72d271ec386b532f3e007afc6cdd1041dc59e",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
