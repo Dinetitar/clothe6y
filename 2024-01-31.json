@@ -1,0 +1,26 @@
+{
+  "name": "Steve Fleming",
+  "age": 47,
+  "address": {
+    "street": "Tasbac View",
+    "city": "Culhivmec",
+    "state": "AR",
+    "zip": "56259"
+  },
+  "contact": {
+    "phone": "(789) 986-8257",
+    "servicePhone": "800798859"
+  },
+  "birthday": "1984-10-23T01:06:50.890Z",
+  "ip": "177.12.133.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Jelacliz temetluz rol areef bemto jodkog onkideh iwuvit ir ciw lifon go tum copuh mamadi ciha lusodiah utifugsoh. Dukiv vegtez ezdeife liwzur popi varonu ijulek ze zi wuklot nik tod gigu tibogcus fo inabodu eju ov. En erlego hinohu vo epejov nomo hotahoh hal ujvigo varfofazo wohi ci.",
+    "bio": "Hejli lovepu fasedge gofubfat enwecvon inegezu wolnettog kek hu amorejcud fevwo javovow tiroh lesma upwin otizog we. Malsoc ow care wod ganuvji tawulli jo cilas irvole wevbosdu no vazzirsal za firpub ot ifbesew ibzi po. Wuma juhcoca sur jo jeunweh remeza asece uvfiov beko pin vuzorzu tuj."
+  },
+  "apiKey": "a3dd17d85856f61aca7fbcb4eea6c174dfd4afdc6d8e0eb40acd02238ac38465",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
