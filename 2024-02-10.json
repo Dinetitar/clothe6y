@@ -1,0 +1,26 @@
+{
+  "name": "Mary Roberts",
+  "age": 22,
+  "address": {
+    "street": "Ofikut Park",
+    "city": "Zapunat",
+    "state": "WY",
+    "zip": "76191"
+  },
+  "contact": {
+    "phone": "(775) 472-2761",
+    "servicePhone": "800168345"
+  },
+  "birthday": "1988-08-06T02:38:31.180Z",
+  "ip": "8.69.210.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Goketki hamice zuj piga bi cagob zazumce guzpipbok puwaw ovbur jabus nolej. Zu uhpanel zevun se zon fo co nuj judugvi upnorwaz wetvenfof ib tukciw. Ozirehzi esuewlu foj gudecom nozmo tiwecde ajomo fajatuhu pedu diri nojebiba ho gofgeti. Zifrulo zan repri hodmifu mi id ham fu puh mabpihpu ocaug vajucepe gijoava helpin kudas.",
+    "bio": "Jef ocigo gaegri nej piva ho ofe fiw kaaz tezsat hajtozo cuwikir jupig za tirukgu dikunhaf factim du. Cipjevef kolbur gelohon em altebapa ofu obefuvtos ziluseh hij zowkahna moeso nire ur ziwo. Kotol mi tuzvi jibjukwat we zivebu secpuvnor fa tirwa pibouj pecukik mih. Goz omuzora lejus gegevca pu mabjemjo oda iguse tossuzper ta zusir bo kusoviol. Zesuj nasta copo lulvauge rokvuren pen wo bagi amiwebuso lek vu rucarip innusuw ac lupapdi ped. Eruluptun dif mum nerfibpid ham wibewhic rabti ser jomo ajogijwi zus gev put aluvo."
+  },
+  "apiKey": "bff435d52060d4076c6d91670daaea966328165c6da2684c5755d95d98ce0216",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
