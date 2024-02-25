@@ -1,0 +1,26 @@
+{
+  "name": "Emily Holmes",
+  "age": 39,
+  "address": {
+    "street": "Targi Grove",
+    "city": "Hoofza",
+    "state": "ME",
+    "zip": "87906"
+  },
+  "contact": {
+    "phone": "(989) 656-8444",
+    "servicePhone": "800498223"
+  },
+  "birthday": "1967-04-08T20:40:58.286Z",
+  "ip": "142.15.120.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Zud vepra ud keked sihugana tolobe lapos misog bocni ka zo netesaw bibgofu gasak lad. Viuco azmi aj mahfogim azgodocu anvawvo leujinuj podonu la isebar rorom wuosura piciteti. Fumfal oz curatweh fo woz ko ce ev bikwaf sih nep no.",
+    "bio": "Zavajaw fu kisuf esfu fiflo suhes ukodo paim gomhiju inugo ajofi ma pic. Hacsedob cuf lulon tafic buuwi fulvak tuzuif upfo fatoola inado ewiunmi ajisa giteazi opveze vehu zapij fe ure. Nu ejimovpu geeh tafogmit zezakig vo no osamiwogo sefcize tuf beg guzdu usecep. Mooko weziceete urniraju ce hap nevveti zeuvupim wa ni ap dodhu uvora hiv giku. Bukfiwso ze henur uteta pu gifofi umar sop ebmilizu gavah hozi panosufu onar ki tibalho. Omwel litgumba zehifuw eb jazfo sotezhiv afu hoduloc napotena ojacicgi efo le. Vihsohda ilafi guv weurinez okodo wiv werodi ki ruze nerpij nit fuv ac gohdibbuc mucabeupa elelihu."
+  },
+  "apiKey": "6e9ca553aa91356dd66ee1d830564467c34d88c53779a7cada8bbce6e63090c2",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
