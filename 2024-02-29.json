@@ -1,0 +1,26 @@
+{
+  "name": "Hester Tucker",
+  "age": 32,
+  "address": {
+    "street": "Fepiz Manor",
+    "city": "Zigikiib",
+    "state": "NC",
+    "zip": "59096"
+  },
+  "contact": {
+    "phone": "(775) 378-4328",
+    "servicePhone": "800626356"
+  },
+  "birthday": "1969-07-14T00:32:17.585Z",
+  "ip": "74.206.34.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Bovulda fikekfa bu ral kaocmo pejo mo hihmizcav ema ibefe posin latke vacisri samki ji tojwe legow. Ob nus tabopofum cozu wakvu hut kuwica ivo fut amjifud sefuf ewi mic no het. Jenehef cessu mege jete nud ne zuzzocsu iwe ubo wozni ga jofuzewat jacnim saf. Mevsel vacohbot bogorso bu dujo moz sodes rabiki za walijfis joaj suv. Edisi izmi oz warib awi hifeaca cof odje cenod jerbe co bepakno aroigoun gutbez.",
+    "bio": "Kiena dokilejes uf to fajpanop itu eku mucdupgam upelus tubvu pagmi uheabhi nin re. Dif gam wuwaj fus wamok loj cekpegec we ihwi omawic rodcen kapguga. Mivaez me men alukuwi goca ukcuvit wogah dahowif fuf wulac tuoh gona ve jez miplaj bacuju."
+  },
+  "apiKey": "7f2de01d0a3d0bec20dde7e52600f4442004ba240c6bb815e858c172c6f0e82e",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
