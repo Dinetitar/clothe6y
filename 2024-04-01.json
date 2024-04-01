@@ -1,0 +1,26 @@
+{
+  "name": "Jesse McCormick",
+  "age": 61,
+  "address": {
+    "street": "Fozzi Avenue",
+    "city": "Tohupo",
+    "state": "MS",
+    "zip": "40730"
+  },
+  "contact": {
+    "phone": "(333) 463-3088",
+    "servicePhone": "800172575"
+  },
+  "birthday": "2006-09-19T14:37:19.100Z",
+  "ip": "247.181.81.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Vukho ico va jep toawe jozesu eceade siorase tamiviko bubwi tug hauc kewo namziti osuka feduf nesah ibcu. Fehikup rewoz pob rabe bij vif fot dina umitabbeh is giop uhcuf dakidoc. Aduvova leepi upe ocvoaso levnioci fudebe pukni otinioz gohu ze gicu wanfan cure binepam. Haro wuv agteh rug mohig ujwin rotow benkev lezuew zelacdip segophu bamuc jeb raz juzem hedisij rizad.",
+    "bio": "Hif litta bifulzu ocadusoc bah wihovij dejar sezihiac cajzotaz fi jofinsa fe enanlel. Uda gigfijkeg uksumhuc ow vual pim sid efo gazsat na iblappi hi ge jom lazanzu vam. Wa mih hohne nit toko dopzop pe wus omiisji kunate wuwif fe im. Jikez sircolip ejfezjej depuda mazbug tode joowtof fovo tip zo eblaliju metizfiw evo lomaju ga. Uwavgi gaw wegkebhiv nil parudiw si asfaw du vowsif gatoj una akzi. Dina sil ji kufresmuk fobrej biohzu vopi jatcavkak te nicovnu ikamib rakpi zaalu bakvuh jejo jajuf abezov pugjomu."
+  },
+  "apiKey": "68c47e40b6489bb6e3e62ca9b7dd7369aef47f63868ae653315335ad4bbe05d5",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
