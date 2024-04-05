@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Jensen",
+  "age": 33,
+  "address": {
+    "street": "Moega Highway",
+    "city": "Hagecvo",
+    "state": "CO",
+    "zip": "62793"
+  },
+  "contact": {
+    "phone": "(356) 758-4712",
+    "servicePhone": "800976789"
+  },
+  "birthday": "1989-10-12T11:39:23.032Z",
+  "ip": "122.201.52.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Bodkeup ne bap ajogahuli sidanoc gur ozvuren pidus zemsicgi razejojuc ej celovacap fam voov sugcekhe nev lirruv no. Bedut zi orosiaze hevec izvo god kipow suh ka mogiz ikmugomo giraza vo niw fuhannuc rubuf metmehneh. Feshipon zubti getbiepo agozi ob suzni hikazkuz ceuhpi laki jej jekuje vallapi.",
+    "bio": "Rulfec orkian tuzpanmu bom il awocowsal sigutga pufaeno kopu odzu hutpaure mawofap. Voz puh osuure vis okoli ak liz opoiwu ruja ahu cice sum sagdu. Ruczorif kowse hiwweas muni okso appin mat buv dum giho webzotoz pi po nesivbat ajlul. Lurza tosemoh li podaj iwije bu azvaaj jid wu zarsik eruliwna ira dekokme. Pamhal fad guruw colzahe vu dakkurjo niklig natjef oduazlud wifi co go goh uwtokdo pofuhej bobi cor govru. Api avulu loniw sot urgaban kovgibeh tetu ve pajba lorin nofuva si. Ceh ruk vic lifovza oc acob ev isila toni rur nistuw livef cow hiz zice."
+  },
+  "apiKey": "049d51c09acd29a57aec785171cceede8c65d220810c85a603eb3efcb513795f",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
